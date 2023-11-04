@@ -2,7 +2,13 @@
 
 A simple Python script that rethemes images.
 
-Example image was created by me.
+## example
+
+Original:
+![original](./img/railgunner.png)
+
+Kanagawa:
+![kanagawa](img/railgunner_proc.png)
 
 ## todo
 
